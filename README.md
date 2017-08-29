@@ -7,6 +7,6 @@ You will need to run this program on two tabs, which will be "Cam" and "Sam" att
 For signer.py: 
 On the first tab in terminal (or whatever program you wish to use), you will need to navigate to this file and then type "python signer.py --c localhost --message". On the second tab, you then type "python signer.py --s" (after making sure you have navigated to the file). This should authenticate the signed version of the message. 
 
-If you wish to display print messages, you may need to un-comment the tests I wrote in the files. The specifics of the algorithms should be clear in the comments of the files, but I can always be reached for questions at meredith.duflock@gmail.com. 
+If you wish to display print messages, you may need to un-comment the tests I wrote in the files. The specifics of the algorithms should be clear in the comments of the files, but I can always be reached for questions at md1341@georgetown.edu.
 
 The images included, as indicated by the names, demonstrate how the program works. 
